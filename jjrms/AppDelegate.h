@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-
+//这是一个注释
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
