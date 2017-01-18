@@ -1,0 +1,247 @@
+/* 
+  Localizable.strings
+  jjrms
+
+  Created by user on 16/10/26.
+  Copyright © 2016年 supercity. All rights reserved.
+*/
+//提示框
+"qvxiao"="Cancel";
+"queren"="OK";
+"tishi_alert"="Confirm";
+"shifouqueen_alert"="Are you sure?";
+"shijiancuowu_alert"="Date error";
+"tokenerror_alert"="Login error";
+
+"baocun_ca"="Save";
+
+"qingqiuchaoshi"="Request timeout, please try again later.";
+
+
+//登录
+
+"Loginbt_lg"="Login";
+"Shenqing_lg"="Sign up";
+"tel_lg"="Customer Service:";
+"telcheck_lg"="Select the country for your number";//
+"china_lg"="China";
+"japan_lg"="Japan";
+"usa_lg"="USA";
+"cuowu_lg"="Error";
+"dengluxinxi_lg"="Those credentials don't look right.Please try again.";
+
+"zhuce_lg"="Create Account";
+"Forget_lg"="Forget Password";
+
+"jiaoshenmemingzi_lg"="What's your name?";
+"mingzi_lg"="FIRST NAME";
+"xingming_lg"="LAST NAME";
+
+"xuanzetel_lg"="And, your phone number?";
+"dianhuahaoma_lg"="PHONE NUMBER";
+"shuruyanzhengma_lg"="Enter 4-digit code";
+"siweiyanzhengma_lg"="4-CODE";
+"fasongyanzhengma_lg"="Send code";
+"zaicifasongyanzhengma_lg"="Send code again";
+"yanzhengmacuowu_lg"="This code doesn't look quite right.";
+"buyaowangjiyouxiang_lg"="And, your email?";
+"dianyoudizi_lg"="EMAIL ADDRESS";
+
+"chuanjianmima_lg"="Create a password";
+"mimajianyi_lg"="Password length is recommended to be at least 8 characters.";
+"zhanghuchuangjiansc_lg"="Account created successfully.";
+
+
+"wangjimima_lg"="Forgot Password?";
+"wangjimimatishi_lg"="Enter your number to find your account.";
+"mimayishezhi_lg"="Password Reset";
+"mimayishezhichongxindl_lg"="You've successfully reset your password.Use your new password to log in.";
+//2.0
+"login_lg"="Login";
+"tellab_lg"="Tel";
+"mima_lg"="Password";
+"xianshi_lg"="Show";
+"yincang_lg"="hiden";
+
+"LoginNamePlaceholder_lg"="mobile";
+"LoginPasswordPlaceholder_lg"="password";
+
+//首页
+"fangyuan_ho"="Listing";
+"dingdan_ho"="Reservation";
+"xiaoxi_ho"="Message";
+"zhanghu_ho"="Account";
+
+//tabbar
+"shouye_tab"="Home";
+"bangzhu_tab"="Help";
+
+//2.0
+"order_tab"="order";
+"fangyuan_tab"="home";
+"rili_tab"="calender";
+"xiaoxi_tab"="msg";
+"my_tab"="my";
+
+
+//title
+"rili_tit"="Calender";
+"dingdan_tit"="Order";
+"xiaoxi_tit"="Message";
+"qianbao_tit"="Wallet";
+"xuanzetixian_tit"="Select your payment method";
+"tixianjine_tit"="Amount";
+"zhifubao_tit"="Alipay account";
+"paypal_tit"="PayPal account";
+
+//我的
+"telkefu_my"="Customer Service";
+"yijian_my"="Leave Message Here";
+
+
+//2.0
+"chakanziliao_my"="Personal information";
+"qianbao_my"="Wallet";
+"about_my"="About";
+
+"gerenxinxi_my"="Personal information";
+
+
+
+//个人信息
+"ming_my"="First Name";
+"xing_my"="Last Name";
+"time_my"="Reg Time:";
+"tel_my"="Mobile:";
+"tuichu_my"="Login Out";
+"xianxifangshi_my"="      Tel";
+"email_my"="Email:";
+
+"querentuichu_my"="确认退出？";
+
+
+//账户
+"yue_ac"="Balance";
+"tixian_ac"="withdraw";
+"ketixian_ac"="available balance";
+
+"tianjiazhanghu_ac"="Add Account";
+"zhangdan_ac"="Bill";
+"zhifubao_ac"="Alipay";
+
+"xiugaizhanghu_ac"="Revise Account";
+"shoukuanfangshi_ac"="Select Account Type";
+"zhanghuming_ac"="Account Name:";
+"zhanghao_ac"="Account Number:";
+"queren_ac"="OK";
+"qingshuruzhanghuming"="Please Input";
+"qingshuruzhanghao"="Please Input";
+
+
+"jinermb_ac"="money(CNY)";
+"jinery_ac"="money(JPY)";
+"jinemy_ac"="money(USD)";
+
+"shouru_ac"="Income";
+"zhichu_ac"="Withdraw";
+
+
+"zhanghu_ac"="Account";
+
+
+
+//订单
+//2.0
+"guidang_or"="archive";
+"daiqueren_or"="Unconfirmed";
+"tishi1_or"="No intended application";//
+"tishi2_or"="No intended application";//
+"querendingdan_or"="Accept";
+"ruzhu_or"="Check in";
+"tuifang_or"="Check out";
+"xiangqing_or"="Detail";
+"yudingfeiyong_or"="Total amount";
+
+"yiguidang_or"="Archived";
+"meiyouguidang_or"="No archived message.";
+"yezhuqvxiao_or"="Cancelled(owner)";
+"zukeqvxiao_or"="Cancelled(client)";
+
+
+
+
+
+
+
+
+"quanbu_or"="All";
+"daifukuan_ac"="PendingPay";
+"dairuzhu_ac"="Confirmed";
+"yiruzhu_ac"="Arrived";
+"yiwancheng_ac"="Finished";
+
+"chenggong_ac"="Confirmed";
+"shibai_ac"="Failed";
+
+"fanhui_or"="Back";
+"fanhuidingdan_or"="Back to Reservation";
+
+"dingdanxiangqing_or"="Detail";
+"qvxiaodingdan_or"="Cancel";
+
+//
+"xiaoxixiangqing_new"="Detail";
+//
+"gaikuang_or"="Summary:";
+"riqi_or"="Date:";
+"zonge_or"="Money:";
+"xingming_or"="Name:";
+"tel_or"="Tel:";
+
+//房源
+"quanbu_hs"="All";
+"shenhezhong_hs"="Under Review";
+"yibohui_hs"="Denied";
+"yishangxian_hs"="Online";
+"yixiaxian_hs"="Offline";
+
+"fangyuan_hs"="Detail";
+//2.0
+"nimeiyoufangyuan_hs"="No property.";
+"fangyuans_hs"="Properties";
+
+
+//日历
+"xq1_ca"="Mon";
+"xq2_ca"="Tue";
+"xq3_ca"="Wed";
+"xq4_ca"="Thu";
+"xq5_ca"="Fri";
+"xq6_ca"="Sat";
+"xq7_ca"="Sun";
+
+"nian_ca"=".";
+"yue_ca"="";
+
+"rili_ca"="Calendar";
+"xiugaifangtai_ca"="Availability";
+"xiugaijiage_ca"="Price";
+
+"qi_ca"="From:";
+"zhi_ca"="To:";
+"kai_ca"="open";
+"guan_ca"="close";
+"fangtai_ca"="State:";
+"jichujiage_ca"="Price:";
+
+"kezu_ca"="Available";
+"yipingbi_ca"="Not Available";
+"meiwanprice_ca"="Price per night";
+"bianjijiage_ca"="Edit price";
+
+"meiwanjiage_ca"="Price per night";
+"butongderiqi_ca"="Different dates";
+
+
+//MJRefresh
+"jiazaizhong_mj"="loading...";
